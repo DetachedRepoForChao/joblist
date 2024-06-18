@@ -197,8 +197,8 @@ function App() {
            <textarea
           type="email"
           placeholder="Enter which job you want to apply we will connect with you soon"
-          value={email}
-          onChange={handleEmailChange}
+          value={resume}
+          onChange={handleResumeChange}
           required
         />
         <button type="submit" className="submit-button">Submit</button>
