@@ -115,7 +115,7 @@ function App() {
   // };
 
   const handleRedirectClick = () => {
-    window.location.href = 'https://test0212.zeabur.app/'; // Replace with the URL you want to redirect to
+    window.location.href = 'https://www.altairx.co/'; // Replace with the URL you want to redirect to
   };
   const addFilterKeywords = (data) => {
     if (!filterKeywords.includes(data)) {
